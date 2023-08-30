@@ -13,3 +13,9 @@ Python Basics for 2nd years
   - Overview of Jupyter Notebook, Markdown format with sample example on it
   - Variables, Assignment of Variables with sample example on each
   - Data Types, type function with sample example on it
+
+# Day-03(30-08-2023):
+  - Markdown Format with sample example on each
+  - Operators,Typecasting,input and output formatting with sample example on each
+  - Conditional statements Overview
+  - if,if-else and nested if with sample example on each 
