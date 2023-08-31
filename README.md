@@ -21,7 +21,7 @@ Python Basics for 2nd years
   - if,if-else and nested if with sample example on each
 
 # Day-04(31-08-2023):
-  - elif with sample example on it
+  - Elif with sample example on it
   - Loops Overview,for,while and range overview and sample example on each
   - Jumping statements Overview break,pass and continue with sample example on each
   - Inner Loops overview and sample example on it
