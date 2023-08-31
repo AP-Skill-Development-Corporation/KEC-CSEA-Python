@@ -1,0 +1,72 @@
+Day-03[30-08-2023]:
+===================
+	Good Morning All..
+
+	Todays Concept:
+	===============
+		- Elif 
+		- Loops => for and while
+		- range
+		- Jumping statements
+		- Inner Loops
+
+	Concepts Tasks:
+	===============
+		- All Data Structures Overview
+		- Packages and Modules
+
+	Problems Task:
+	==============
+	1.
+		Input:
+			5
+			12
+		Output:
+			21F41A0505
+			21F41A0506
+			21F41A0507
+			21F41A0508
+			21F41A0509
+			21F41A0510
+			21F41A0511
+
+	2.
+		Input:
+			5
+			12
+		Output:
+			21F41A0505	20F41A0511   
+			21F41A0506	20F41A0510
+			21F41A0507	20F41A0509
+			21F41A0508	20F41A0508
+			21F41A0509	20F41A0507
+			21F41A0510	20F41A0506
+			21F41A0511	20F41A0505
+
+	3.
+		Input:
+			Enter a number: 4568
+		Output:
+			Digit count is: 4
+			Even numbers are: 4 6 8
+			Odd numbers are: 5
+			Even numbers count is: 3
+			Odd numbers count is: 1
+			Even numbers sum is: 18
+			Odd numbers sum is: 5
+
+	4. Try to use while
+		Input:
+			Enter a number: 4563
+		Output:
+			Reverse of 4563 is 3654
+			Right half reverse is: 4536
+			Left half reverse is: 5463
+
+		Input:
+			Enter a number: 78956
+		Output:
+			Reverse of 78956 is 65987
+			Right half reverse is: 78965
+			Left half reverse is: 87956
+
