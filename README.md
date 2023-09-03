@@ -32,3 +32,9 @@ Python Basics for 2nd years
   - Function Argument Types with sample example on each
   - Data Structures Overview
   - List Overview and sample example on it
+
+# Day-06(02-09-2023):
+  - Data Structures and its methods with sample examples on each
+  - Comprehensions (list,set and dictionary)
+  - Functional Programming (map,filter and reduce)
+  - Packages and Modules
